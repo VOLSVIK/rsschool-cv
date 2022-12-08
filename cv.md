@@ -23,5 +23,6 @@ function multiply (a, b) {
 Moscow Aviation Institute
 ### **Languages**
 - Russian - Native
+- Polish - Basic
 - English – A1 in progress…
 

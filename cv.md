@@ -15,7 +15,7 @@ My desire to learn has 2 goals:
 ### **Code examples**
 ```
 function multiply (a, b) {
-    a*b
+    return a*b
 }
 ```
 ### **Experience** [link](https://VOLSVIK.github.io/rsschool-cv/cv)

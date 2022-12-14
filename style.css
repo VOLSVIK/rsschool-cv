@@ -54,10 +54,3 @@
     line-height: 1.7;
     background: rgb(171, 196, 188);
    }
-
-   .table {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-
-   }

@@ -1,12 +1,8 @@
-  body {
-    /*
-    box-sizing: border-box;
-    */
+   body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-
-  }
+   }
 
    .header {
     display: flex;
@@ -14,13 +10,11 @@
     justify-content: space-between;
     margin: 0px auto;
     width: 1000px;
-
     font-size: 18px;
     line-height: 1.7;
-
     background: rgb(171, 196, 188);
-
    }
+
    .photo {
     margin: 30px;
    }
@@ -32,6 +26,7 @@
    .nav {
     margin: 20px;
    }
+
    .main {
     margin: 0px auto;
     width: 1000px;
@@ -40,16 +35,14 @@
     font-size: 20px;
     line-height: 1.7;
     background-color: #ffffff;
-
    }
+
    .left {
     width: 37%;
    }
    .right {
     width: 63%;
    }
-
-
 
    .footer {
     margin: 0px auto;
@@ -59,25 +52,7 @@
     justify-content: space-around;
     font-size: 20px;
     line-height: 1.7;
-
     background: rgb(171, 196, 188);
-   }
-  /*
-   
-
-   .nav-list {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-   }
-             */
-
-
-   .div {
-    background: #fcfefd;
-  
-    width: 500;
-
    }
 
    .table {

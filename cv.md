@@ -4,25 +4,47 @@
 * Location: Brest, Belarus
 * Email: rudyard47@gmail.com
 * Telegram: @Volsvik
-* Phone: +375336747748
+* Discord: VIKTAR VOLSKI (@volsvik)
 * GitHub: VOLSVIK
+
+***
+
 ### **About myself**
-My desire to learn has 2 goals:
-1.  get an opportunity to find a job in Poland as a programmer.
-2.  the realization of the idea of photography using the ability to upload and store photos, as well as their evaluation and selection for clients, with the involvement of their friends and interested people. My attempts to implement the idea in the WordPress system did not give the expected result, but the desire to do this does not leave me.
+My desire to learn has 2 goals. First: Get an opportunity to find a job in Poland as a programmer. Second: implementation of the idea, because attempts to implement it in the WordPress system did not give the expected result, but the desire to do this does not leave me. I like to explore new things.
+
+>*"Watch the things you gave your life to, broken,*
+>*and stoop and build ’em up with worn-out tools"*
+>
+>*Rudyard Kipling*
+
+***
+
 ### **Skills**
->Worked with the Clipper system.
+Worked with the Clipper system.
+
+***
+
 ### **Code examples**
 ```
-function multiply (a, b) {
-    return a*b
+function change(strOfNumb) {
+    return strOfNumb.split('').map(n => n < 5 ? 0 : 1).join('');
 }
 ```
-### **Experience** [link](https://VOLSVIK.github.io/rsschool-cv/cv)
+
+***
+
+### **Experience** [link](https://rolling-scopes-school.github.io/volsvik-JSFEPRESCHOOL2022Q4/momentum/)
+
+***
+
 ### **Education** 
-Moscow Aviation Institute
+1. Moscow Aviation Institute
+2. JS / FRONT-END. STAGE 0 (RU)
+
+***
+
 ### **Languages**
 - Russian - Native
 - Polish - Basic
-- English – A1 in progress…
+- English – A1 Beginner
 
